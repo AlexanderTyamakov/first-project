@@ -1,1 +1,6 @@
-Class Praktikum
+class Praktikum {
+     public static void name() {
+        
+    }
+}
+
